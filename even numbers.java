@@ -16,6 +16,6 @@ public class Numbers{
             }
         double avg = sum/count;
 
-        System.out.println("The average of all even numbers from 1 to 10000")
+        System.out.println("The average of all even numbers from 1 to 10000"+avg);
     }
 }
